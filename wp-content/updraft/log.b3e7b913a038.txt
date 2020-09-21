@@ -1,0 +1,393 @@
+0000.002 (0) Opened log file at time: Sun, 20 Sep 2020 13:46:38 +0000 on http://pamilyastore
+0000.077 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.29 WP: 5.5.1 PHP: 7.4.10 (apache2handler, Windows NT PAMILYASTORE 10.0 build 18363 (Windows 10) AMD64) MySQL: 10.4.14-MariaDB WPLANG: en_US Server: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.10 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 53.4M | 10M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.189 (0) Free space on disk containing Updraft's temporary directory: 53127.9 MB
+0000.233 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.312 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.470 (0) Set semaphore last lock (fd) time to 2020-09-20 13:46:38
+0000.513 (0) Semaphore lock (fd) complete
+0000.855 (0) Backup run: resumption=0, nonce=b3e7b913a038, file_nonce=b3e7b913a038 begun at=1600609598 (1s ago), job type=backup
+0001.163 (0) Scheduling a resumption (1) after 485 seconds (1600610084) in case this run gets aborted
+0001.242 (0) Checking if we have a zip executable available
+0001.296 (0) Creation of backups of directories: beginning
+0001.591 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0007.568 (0) Total entities for the zip file: 1230 directories, 6834 files (0 skipped as non-modified), 97.2 MB
+0007.745 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0009.027 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 100 files added (on-disk size: 237.2 KB)
+0010.735 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (14.2 MB, 193 (194) files added so far); re-opening (prior size: 237.2 KB)
+0012.146 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 200 files added (on-disk size: 4868.8 KB)
+0013.041 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 300 files added (on-disk size: 4868.8 KB)
+0013.358 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 400 files added (on-disk size: 4868.8 KB)
+0013.949 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 500 files added (on-disk size: 4868.8 KB)
+0014.635 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 600 files added (on-disk size: 4868.8 KB)
+0014.754 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.9 MB, 407 (601) files added so far); re-opening (prior size: 4868.8 KB)
+0015.817 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 700 files added (on-disk size: 6444.8 KB)
+0017.184 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 800 files added (on-disk size: 6444.8 KB)
+0017.762 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.7 MB, 286 (887) files added so far); re-opening (prior size: 6444.8 KB)
+0019.266 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 900 files added (on-disk size: 8095 KB)
+0019.813 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 1000 files added (on-disk size: 8095 KB)
+0021.053 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 1100 files added (on-disk size: 8095 KB)
+0021.738 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.6 MB, 274 (1161) files added so far); re-opening (prior size: 8095 KB)
+0023.304 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 1200 files added (on-disk size: 8824.4 KB)
+0024.702 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 1300 files added (on-disk size: 8824.4 KB)
+0024.883 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 140 (1301) files added so far); re-opening (prior size: 8824.4 KB)
+0026.260 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 1400 files added (on-disk size: 9124.6 KB)
+0026.865 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 1500 files added (on-disk size: 9124.6 KB)
+0027.737 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.7 MB, 239 (1540) files added so far); re-opening (prior size: 9124.6 KB)
+0029.454 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 1600 files added (on-disk size: 10493.8 KB)
+0030.274 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 1700 files added (on-disk size: 10493.8 KB)
+0030.744 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (16.6 MB, 225 (1765) files added so far); re-opening (prior size: 10493.8 KB)
+0032.909 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 1800 files added (on-disk size: 14814.3 KB)
+0033.861 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 1900 files added (on-disk size: 14814.3 KB)
+0034.749 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 215 (1980) files added so far); re-opening (prior size: 14814.3 KB)
+0036.168 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 2000 files added (on-disk size: 15041.3 KB)
+0037.352 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 2100 files added (on-disk size: 15041.3 KB)
+0037.744 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 146 (2126) files added so far); re-opening (prior size: 15041.3 KB)
+0040.033 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 2200 files added (on-disk size: 15379.5 KB)
+0040.743 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 136 (2262) files added so far); re-opening (prior size: 15379.5 KB)
+0042.858 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 2300 files added (on-disk size: 15519.7 KB)
+0043.741 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 115 (2377) files added so far); re-opening (prior size: 15519.7 KB)
+0045.043 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 2400 files added (on-disk size: 15646.2 KB)
+0046.307 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 2500 files added (on-disk size: 15646.2 KB)
+0046.738 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 162 (2539) files added so far); re-opening (prior size: 15646.2 KB)
+0048.759 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 2600 files added (on-disk size: 16030.3 KB)
+0049.527 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 2700 files added (on-disk size: 16030.3 KB)
+0049.911 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 2800 files added (on-disk size: 16030.3 KB)
+0050.734 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.1 MB, 357 (2896) files added so far); re-opening (prior size: 16030.3 KB)
+0051.675 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 2900 files added (on-disk size: 17393.9 KB)
+0053.944 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.4 MB, 99 (2995) files added so far); re-opening (prior size: 17393.9 KB)
+0055.097 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 3000 files added (on-disk size: 18144.2 KB)
+0057.733 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 102 (3097) files added so far); re-opening (prior size: 18144.2 KB)
+0059.242 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 3100 files added (on-disk size: 18360.3 KB)
+0061.143 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 3200 files added (on-disk size: 18360.3 KB)
+0061.736 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.1 MB, 190 (3287) files added so far); re-opening (prior size: 18360.3 KB)
+0062.913 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 3300 files added (on-disk size: 18913.6 KB)
+0063.906 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 3400 files added (on-disk size: 18913.6 KB)
+0064.445 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 3500 files added (on-disk size: 18913.6 KB)
+0064.732 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.9 MB, 272 (3559) files added so far); re-opening (prior size: 18913.6 KB)
+0066.259 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 3600 files added (on-disk size: 19666.7 KB)
+0067.359 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 3700 files added (on-disk size: 19666.7 KB)
+0068.115 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 3800 files added (on-disk size: 19666.7 KB)
+0068.739 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6 MB, 294 (3853) files added so far); re-opening (prior size: 19666.7 KB)
+0070.706 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 3900 files added (on-disk size: 21434.4 KB)
+0071.918 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 4000 files added (on-disk size: 21434.4 KB)
+0072.731 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 232 (4085) files added so far); re-opening (prior size: 21434.4 KB)
+0073.500 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 4100 files added (on-disk size: 21692.6 KB)
+0074.780 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 4200 files added (on-disk size: 21692.6 KB)
+0075.735 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 214 (4299) files added so far); re-opening (prior size: 21692.6 KB)
+0076.988 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 4300 files added (on-disk size: 22231.1 KB)
+0077.977 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 4400 files added (on-disk size: 22231.1 KB)
+0078.768 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 4500 files added (on-disk size: 22231.1 KB)
+0079.676 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 4600 files added (on-disk size: 22231.1 KB)
+0079.731 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 305 (4604) files added so far); re-opening (prior size: 22231.1 KB)
+0081.471 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 4700 files added (on-disk size: 22525.5 KB)
+0082.021 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 4800 files added (on-disk size: 22525.5 KB)
+0082.734 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 289 (4893) files added so far); re-opening (prior size: 22525.5 KB)
+0084.741 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 4900 files added (on-disk size: 22893.6 KB)
+0085.743 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.6 MB, 53 (4946) files added so far); re-opening (prior size: 22893.6 KB)
+0088.344 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 5000 files added (on-disk size: 23301 KB)
+0089.380 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 5100 files added (on-disk size: 23301 KB)
+0089.746 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.8 MB, 205 (5151) files added so far); re-opening (prior size: 23301 KB)
+0091.666 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 5200 files added (on-disk size: 24597.4 KB)
+0092.735 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 136 (5287) files added so far); re-opening (prior size: 24597.4 KB)
+0094.866 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 5300 files added (on-disk size: 24715.6 KB)
+0095.738 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 55 (5342) files added so far); re-opening (prior size: 24715.6 KB)
+0098.033 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 5400 files added (on-disk size: 24778 KB)
+0098.618 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 5500 files added (on-disk size: 24778 KB)
+0098.731 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 187 (5529) files added so far); re-opening (prior size: 24778 KB)
+0100.851 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 5600 files added (on-disk size: 24935.4 KB)
+0101.737 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 151 (5680) files added so far); re-opening (prior size: 24935.4 KB)
+0104.513 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 5700 files added (on-disk size: 25122.8 KB)
+0105.733 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 119 (5799) files added so far); re-opening (prior size: 25122.8 KB)
+0106.687 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 5800 files added (on-disk size: 25288.3 KB)
+0108.201 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 5900 files added (on-disk size: 25288.3 KB)
+0108.771 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 122 (5921) files added so far); re-opening (prior size: 25288.3 KB)
+0111.359 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 6000 files added (on-disk size: 25420.4 KB)
+0112.442 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 6100 files added (on-disk size: 25420.4 KB)
+0112.734 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 195 (6116) files added so far); re-opening (prior size: 25420.4 KB)
+0116.092 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 6200 files added (on-disk size: 25894.7 KB)
+0116.731 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.9 MB, 137 (6253) files added so far); re-opening (prior size: 25894.7 KB)
+0118.410 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 6300 files added (on-disk size: 27230.9 KB)
+0119.060 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 6400 files added (on-disk size: 27230.9 KB)
+0120.245 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 6500 files added (on-disk size: 27230.9 KB)
+0120.736 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.7 MB, 280 (6533) files added so far); re-opening (prior size: 27230.9 KB)
+0123.089 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 6600 files added (on-disk size: 28051.7 KB)
+0124.227 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 6700 files added (on-disk size: 28051.7 KB)
+0124.734 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 207 (6740) files added so far); re-opening (prior size: 28051.7 KB)
+0127.287 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip.tmp: 6800 files added (on-disk size: 28313.6 KB)
+0129.501 (0) Created plugins zip (0) - 28437.9 KB in 127.9 s (222.4 KB/s) (sha1: ed7ab35475ed942525ae102d3bc8fc8e8bbcc203, sha256: c7ea6775a00a1c7fbf0d68dc401a4dc13557ed45f75285b03d9539971fa7dce7)
+0129.566 (0) Beginning creation of dump of themes (split every: 400 MB)
+0129.959 (0) Total entities for the zip file: 86 directories, 384 files (0 skipped as non-modified), 9.4 MB
+0130.578 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0131.276 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0131.732 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.2 MB, 254 (254) files added so far); re-opening (prior size: 0 KB)
+0132.935 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-themes.zip.tmp: 300 files added (on-disk size: 3675 KB)
+0134.753 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.2 MB, 122 (376) files added so far); re-opening (prior size: 3675 KB)
+0135.780 (0) Created themes zip (0) - 5522.7 KB in 6.2 s (897.1 KB/s) (sha1: de9d9172dc4e6186574bdd2660e207e995877be8, sha256: 13712e2a6e6aa5348f6e78e96e2600f7a146a1137dac7539499d81b099aef335)
+0135.916 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0135.983 (0) Looking for candidates to backup in: C:\xampp\htdocs\wordpress-project\pamilyastore/wp-content/uploads
+0136.091 (0) finding files: 2020: adding to list (1)
+0136.139 (0) finding files: custom-css-js: adding to list (2)
+0136.166 (0) finding files: elementor: adding to list (3)
+0136.275 (0) finding files: essential-addons-elementor: adding to list (4)
+0136.316 (0) finding files: wc-logs: adding to list (5)
+0136.377 (0) finding files: woocommerce-placeholder-450x450.png: adding to list (6)
+0136.474 (0) finding files: woocommerce_uploads: adding to list (7)
+0136.556 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0137.363 (0) Total entities for the zip file: 9 directories, 181 files (0 skipped as non-modified), 17.6 MB
+0137.550 (0) Zip: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0138.909 (0) Created uploads zip (0) - 9474.9 KB in 1.8 s (5248 KB/s) (sha1: be55d04c88e918c4450b48a18239066022c8a346, sha256: 5696ad5fc9271adda80330c89e7a66777dd272aec0a147f8e8fdeed952b63a80)
+0138.982 (0) Beginning backup of other directories found in the content directory (index: 0)
+0139.065 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0139.091 (0) Looking for candidates to backup in: C:\xampp\htdocs\wordpress-project\pamilyastore/wp-content
+0139.326 (0) finding files: index.php: adding to list (1)
+0139.365 (0) finding files: plugins: skipping: this is the plugins directory
+0139.449 (0) finding files: themes: skipping: this is the themes directory
+0139.474 (0) finding files: updraft: skipping: this is the updraft directory
+0139.506 (0) finding files: upgrade: skipping: excluded by options
+0139.532 (0) finding files: uploads: skipping: this is the uploads directory
+0139.616 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0139.869 (0) Created others zip (0) - 0.1 KB in 0.3 s (0.5 KB/s) (sha1: c8c26a0603f8f23edef4daaa0f053fe716b4dd28, sha256: 75af1d7ccac503e02bf062aed57243db29a837a98cf126d8609b94309fabf915)
+0140.091 (0) Saving backup status to database (elements: 8)
+0140.198 (0) Beginning creation of database dump (WordPress DB)
+0140.557 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0140.699 (0) Testing potential mysqldump binary: C:\Program Files\MySQL\MySQL Workbench 8.0 CE\mysqldump.exe
+0140.976 (0) Binary mysqldump: error (code: 2)
+0141.154 (0) Table wp_ecommerceoptions: Total expected rows (approximate): 553
+0141.345 (0) Table wp_ecommerceoptions: Rows added in this batch (start page: 0; next: finished): 555 in 0.16 seconds
+0141.574 (0) Table wp_ecommerceoptions: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommerceoptions.table.gz - 255.2 KB)
+0142.093 (0) Table wp_ecommerceusers: Total expected rows (approximate): 0
+0142.163 (0) Table wp_ecommerceusers: Rows added in this batch (start page: 0; next: finished): 1 in 0.02 seconds
+0142.316 (0) Table wp_ecommerceusers: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommerceusers.table.gz - 0.6 KB)
+0142.502 (0) Table wp_ecommerceusermeta: Total expected rows (approximate): 36
+0142.765 (0) Table wp_ecommerceusermeta: Rows added in this batch (start page: 0; next: finished): 39 in 0.20 seconds
+0142.826 (0) Table wp_ecommerceusermeta: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommerceusermeta.table.gz - 2 KB)
+0143.200 (0) Table wp_ecommerceactionscheduler_actions: Total expected rows (approximate): 8
+0143.251 (0) Table wp_ecommerceactionscheduler_actions: Rows added in this batch (start page: 0; next: finished): 8 in 0.02 seconds
+0143.369 (0) Table wp_ecommerceactionscheduler_actions: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommerceactionscheduler_actions.table.gz - 1 KB)
+0143.477 (0) Table wp_ecommerceactionscheduler_claims: Total expected rows (approximate): 0
+0143.652 (0) Table wp_ecommerceactionscheduler_claims: Rows added in this batch (start page: 0; next: finished): 0 in 0.06 seconds
+0143.806 (0) Table wp_ecommerceactionscheduler_claims: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommerceactionscheduler_claims.table.gz - 0.4 KB)
+0143.918 (0) Table wp_ecommerceactionscheduler_groups: Total expected rows (approximate): 0
+0144.072 (0) Table wp_ecommerceactionscheduler_groups: Rows added in this batch (start page: 0; next: finished): 2 in 0.07 seconds
+0144.167 (0) Table wp_ecommerceactionscheduler_groups: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommerceactionscheduler_groups.table.gz - 0.4 KB)
+0144.703 (0) Table wp_ecommerceactionscheduler_logs: Total expected rows (approximate): 21
+0144.921 (0) Table wp_ecommerceactionscheduler_logs: Rows added in this batch (start page: 0; next: finished): 24 in 0.15 seconds
+0144.976 (0) Table wp_ecommerceactionscheduler_logs: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommerceactionscheduler_logs.table.gz - 0.7 KB)
+0145.077 (0) Table wp_ecommercecommentmeta: Total expected rows (approximate): 6
+0145.199 (0) Table wp_ecommercecommentmeta: Rows added in this batch (start page: 0; next: finished): 6 in 0.04 seconds
+0145.246 (0) Table wp_ecommercecommentmeta: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercecommentmeta.table.gz - 0.4 KB)
+0145.433 (0) Table wp_ecommercecomments: Total expected rows (approximate): 9
+0145.602 (0) Table wp_ecommercecomments: Rows added in this batch (start page: 0; next: finished): 9 in 0.10 seconds
+0146.107 (0) Table wp_ecommercecomments: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercecomments.table.gz - 1.3 KB)
+0146.268 (0) Table wp_ecommercelinks: Total expected rows (approximate): 0
+0146.362 (0) Table wp_ecommercelinks: Rows added in this batch (start page: 0; next: finished): 0 in 0.06 seconds
+0146.416 (0) Table wp_ecommercelinks: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercelinks.table.gz - 0.4 KB)
+0146.576 (0) Table wp_ecommercepostmeta: Total expected rows (approximate): 2930
+0146.797 (0) Table wp_ecommercepostmeta: Rows added in this batch (start page: 0; next: finished): 3093 in 0.19 seconds
+0146.855 (0) Table wp_ecommercepostmeta: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercepostmeta.table.gz - 41.8 KB)
+0147.352 (0) Table wp_ecommerceposts: Total expected rows (approximate): 1830
+0148.658 (0) Table wp_ecommerceposts: Rows added in this batch (start page: 0; next: finished): 1531 in 1.24 seconds
+0148.776 (0) Table wp_ecommerceposts: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommerceposts.table.gz - 630.8 KB)
+0149.009 (0) Table wp_ecommerceterm_relationships: Total expected rows (approximate): 66
+0149.085 (0) Table wp_ecommerceterm_relationships: Rows added in this batch (start page: 0; next: finished): 66 in 0.02 seconds
+0149.163 (0) Table wp_ecommerceterm_relationships: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommerceterm_relationships.table.gz - 0.6 KB)
+0149.259 (0) Table wp_ecommerceterm_taxonomy: Total expected rows (approximate): 32
+0149.634 (0) Table wp_ecommerceterm_taxonomy: Rows added in this batch (start page: 0; next: finished): 32 in 0.06 seconds
+0149.811 (0) Table wp_ecommerceterm_taxonomy: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommerceterm_taxonomy.table.gz - 0.7 KB)
+0150.010 (0) Table wp_ecommercetermmeta: Total expected rows (approximate): 58
+0150.150 (0) Table wp_ecommercetermmeta: Rows added in this batch (start page: 0; next: finished): 58 in 0.10 seconds
+0150.213 (0) Table wp_ecommercetermmeta: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercetermmeta.table.gz - 0.8 KB)
+0150.610 (0) Table wp_ecommerceterms: Total expected rows (approximate): 32
+0150.751 (0) Table wp_ecommerceterms: Rows added in this batch (start page: 0; next: finished): 32 in 0.06 seconds
+0150.894 (0) Table wp_ecommerceterms: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommerceterms.table.gz - 0.8 KB)
+0151.084 (0) Table wp_ecommercewc_category_lookup: Total expected rows (approximate): 9
+0151.197 (0) Table wp_ecommercewc_category_lookup: Rows added in this batch (start page: 0; next: finished): 11 in 0.07 seconds
+0151.275 (0) Table wp_ecommercewc_category_lookup: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewc_category_lookup.table.gz - 0.4 KB)
+0151.442 (0) Table wp_ecommercewc_product_meta_lookup: Total expected rows (approximate): 22
+0151.692 (0) Table wp_ecommercewc_product_meta_lookup: Rows added in this batch (start page: 0; next: finished): 22 in 0.19 seconds
+0151.895 (0) Table wp_ecommercewc_product_meta_lookup: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewc_product_meta_lookup.table.gz - 0.7 KB)
+0152.051 (0) Table wp_ecommercewc_reserved_stock: Total expected rows (approximate): 0
+0152.168 (0) Table wp_ecommercewc_reserved_stock: Rows added in this batch (start page: 0; next: finished): 0 in 0.06 seconds
+0152.226 (0) Table wp_ecommercewc_reserved_stock: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewc_reserved_stock.table.gz - 0.3 KB)
+0152.444 (0) Table wp_ecommercewc_tax_rate_classes: Total expected rows (approximate): 2
+0152.503 (0) Table wp_ecommercewc_tax_rate_classes: Rows added in this batch (start page: 0; next: finished): 2 in 0.02 seconds
+0152.623 (0) Table wp_ecommercewc_tax_rate_classes: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewc_tax_rate_classes.table.gz - 0.4 KB)
+0153.078 (0) Table wp_ecommercewoocommerce_order_itemmeta: Total expected rows (approximate): 9
+0153.177 (0) Table wp_ecommercewoocommerce_order_itemmeta: Rows added in this batch (start page: 0; next: finished): 9 in 0.06 seconds
+0153.236 (0) Table wp_ecommercewoocommerce_order_itemmeta: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_order_itemmeta.table.gz - 0.5 KB)
+0153.402 (0) Table wp_ecommercewoocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0153.494 (0) Table wp_ecommercewoocommerce_payment_tokenmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.05 seconds
+0153.556 (0) Table wp_ecommercewoocommerce_payment_tokenmeta: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0153.786 (0) Table wp_ecommercemailchimp_carts: Total expected rows (approximate): 0
+0154.098 (0) Table wp_ecommercemailchimp_carts: Rows added in this batch (start page: 0; next: finished): 0 in 0.12 seconds
+0154.268 (0) Table wp_ecommercemailchimp_carts: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercemailchimp_carts.table.gz - 0.3 KB)
+0154.474 (0) Table wp_ecommercemailchimp_jobs: Total expected rows (approximate): 0
+0154.540 (0) Table wp_ecommercemailchimp_jobs: Rows added in this batch (start page: 0; next: finished): 0 in 0.03 seconds
+0154.590 (0) Table wp_ecommercemailchimp_jobs: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercemailchimp_jobs.table.gz - 0.3 KB)
+0154.734 (0) Table wp_ecommercewc_admin_note_actions: Total expected rows (approximate): 10
+0154.782 (0) Table wp_ecommercewc_admin_note_actions: Rows added in this batch (start page: 0; next: finished): 10 in 0.02 seconds
+0154.820 (0) Table wp_ecommercewc_admin_note_actions: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewc_admin_note_actions.table.gz - 0.9 KB)
+0155.264 (0) Table wp_ecommercewc_admin_notes: Total expected rows (approximate): 9
+0155.499 (0) Table wp_ecommercewc_admin_notes: Rows added in this batch (start page: 0; next: finished): 9 in 0.09 seconds
+0155.670 (0) Table wp_ecommercewc_admin_notes: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewc_admin_notes.table.gz - 1.6 KB)
+0155.943 (0) Table wp_ecommercewc_customer_lookup: Total expected rows (approximate): 0
+0156.193 (0) Table wp_ecommercewc_customer_lookup: Rows added in this batch (start page: 0; next: finished): 1 in 0.11 seconds
+0156.374 (0) Table wp_ecommercewc_customer_lookup: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewc_customer_lookup.table.gz - 0.6 KB)
+0156.569 (0) Table wp_ecommercewc_download_log: Total expected rows (approximate): 0
+0156.738 (0) Table wp_ecommercewc_download_log: Rows added in this batch (start page: 0; next: finished): 0 in 0.13 seconds
+0157.062 (0) Table wp_ecommercewc_download_log: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewc_download_log.table.gz - 0.4 KB)
+0157.239 (0) Table wp_ecommercewc_order_coupon_lookup: Total expected rows (approximate): 0
+0157.549 (0) Table wp_ecommercewc_order_coupon_lookup: Rows added in this batch (start page: 0; next: finished): 0 in 0.20 seconds
+0157.596 (0) Table wp_ecommercewc_order_coupon_lookup: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewc_order_coupon_lookup.table.gz - 0.4 KB)
+0157.825 (0) Table wp_ecommercewc_order_product_lookup: Total expected rows (approximate): 0
+0158.030 (0) Table wp_ecommercewc_order_product_lookup: Rows added in this batch (start page: 0; next: finished): 1 in 0.12 seconds
+0158.176 (0) Table wp_ecommercewc_order_product_lookup: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewc_order_product_lookup.table.gz - 0.5 KB)
+0158.275 (0) Table wp_ecommercewc_order_stats: Total expected rows (approximate): 1
+0158.565 (0) Table wp_ecommercewc_order_stats: Rows added in this batch (start page: 0; next: finished): 1 in 0.26 seconds
+0158.613 (0) Table wp_ecommercewc_order_stats: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewc_order_stats.table.gz - 0.5 KB)
+0158.735 (0) Table wp_ecommercewc_order_tax_lookup: Total expected rows (approximate): 0
+0158.890 (0) Table wp_ecommercewc_order_tax_lookup: Rows added in this batch (start page: 0; next: finished): 0 in 0.07 seconds
+0158.947 (0) Table wp_ecommercewc_order_tax_lookup: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewc_order_tax_lookup.table.gz - 0.4 KB)
+0159.035 (0) Table wp_ecommercewc_webhooks: Total expected rows (approximate): 0
+0159.146 (0) Table wp_ecommercewc_webhooks: Rows added in this batch (start page: 0; next: finished): 0 in 0.02 seconds
+0159.345 (0) Table wp_ecommercewc_webhooks: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewc_webhooks.table.gz - 0.5 KB)
+0159.980 (0) Table wp_ecommercewoocommerce_api_keys: Total expected rows (approximate): 0
+0160.140 (0) Table wp_ecommercewoocommerce_api_keys: Rows added in this batch (start page: 0; next: finished): 0 in 0.13 seconds
+0160.194 (0) Table wp_ecommercewoocommerce_api_keys: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_api_keys.table.gz - 0.4 KB)
+0160.563 (0) Table wp_ecommercewoocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0161.154 (0) Table wp_ecommercewoocommerce_attribute_taxonomies: Rows added in this batch (start page: 0; next: finished): 0 in 0.25 seconds
+0161.205 (0) Table wp_ecommercewoocommerce_attribute_taxonomies: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0161.423 (0) Table wp_ecommercewoocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0161.527 (0) Table wp_ecommercewoocommerce_downloadable_product_permissions: Rows added in this batch (start page: 0; next: finished): 0 in 0.07 seconds
+0161.602 (0) Table wp_ecommercewoocommerce_downloadable_product_permissions: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0161.708 (0) Table wp_ecommercewoocommerce_log: Total expected rows (approximate): 0
+0162.066 (0) Table wp_ecommercewoocommerce_log: Rows added in this batch (start page: 0; next: finished): 0 in 0.08 seconds
+0162.134 (0) Table wp_ecommercewoocommerce_log: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_log.table.gz - 0.4 KB)
+0162.476 (0) Table wp_ecommercewoocommerce_order_items: Total expected rows (approximate): 0
+0162.582 (0) Table wp_ecommercewoocommerce_order_items: Rows added in this batch (start page: 0; next: finished): 1 in 0.02 seconds
+0162.701 (0) Table wp_ecommercewoocommerce_order_items: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_order_items.table.gz - 0.4 KB)
+0162.800 (0) Table wp_ecommercewoocommerce_payment_tokens: Total expected rows (approximate): 0
+0162.989 (0) Table wp_ecommercewoocommerce_payment_tokens: Rows added in this batch (start page: 0; next: finished): 0 in 0.15 seconds
+0163.135 (0) Table wp_ecommercewoocommerce_payment_tokens: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_payment_tokens.table.gz - 0.4 KB)
+0163.358 (0) Table wp_ecommercewoocommerce_sessions: Total expected rows (approximate): 2
+0163.462 (0) Table wp_ecommercewoocommerce_sessions: Rows added in this batch (start page: 0; next: finished): 2 in 0.02 seconds
+0163.786 (0) Table wp_ecommercewoocommerce_sessions: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_sessions.table.gz - 1.4 KB)
+0163.898 (0) Table wp_ecommercewoocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0164.195 (0) Table wp_ecommercewoocommerce_shipping_zone_locations: Rows added in this batch (start page: 0; next: finished): 0 in 0.21 seconds
+0164.247 (0) Table wp_ecommercewoocommerce_shipping_zone_locations: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0164.355 (0) Table wp_ecommercewoocommerce_shipping_zone_methods: Total expected rows (approximate): 0
+0164.479 (0) Table wp_ecommercewoocommerce_shipping_zone_methods: Rows added in this batch (start page: 0; next: finished): 0 in 0.04 seconds
+0164.538 (0) Table wp_ecommercewoocommerce_shipping_zone_methods: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0164.973 (0) Table wp_ecommercewoocommerce_shipping_zones: Total expected rows (approximate): 0
+0165.239 (0) Table wp_ecommercewoocommerce_shipping_zones: Rows added in this batch (start page: 0; next: finished): 0 in 0.23 seconds
+0165.385 (0) Table wp_ecommercewoocommerce_shipping_zones: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_shipping_zones.table.gz - 0.3 KB)
+0165.492 (0) Table wp_ecommercewoocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0165.606 (0) Table wp_ecommercewoocommerce_tax_rate_locations: Rows added in this batch (start page: 0; next: finished): 0 in 0.07 seconds
+0165.674 (0) Table wp_ecommercewoocommerce_tax_rate_locations: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0165.842 (0) Table wp_ecommercewoocommerce_tax_rates: Total expected rows (approximate): 0
+0166.164 (0) Table wp_ecommercewoocommerce_tax_rates: Rows added in this batch (start page: 0; next: finished): 0 in 0.05 seconds
+0166.223 (0) Table wp_ecommercewoocommerce_tax_rates: finishing file (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_tax_rates.table.gz - 0.4 KB)
+0166.382 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommerceoptions.table.gz (1/45): adding to final database dump
+0166.568 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommerceusers.table.gz (2/45): adding to final database dump
+0166.598 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommerceusermeta.table.gz (3/45): adding to final database dump
+0166.630 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommerceactionscheduler_actions.table.gz (4/45): adding to final database dump
+0166.673 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommerceactionscheduler_claims.table.gz (5/45): adding to final database dump
+0166.775 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommerceactionscheduler_groups.table.gz (6/45): adding to final database dump
+0166.814 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommerceactionscheduler_logs.table.gz (7/45): adding to final database dump
+0166.855 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercecommentmeta.table.gz (8/45): adding to final database dump
+0166.899 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercecomments.table.gz (9/45): adding to final database dump
+0166.980 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercelinks.table.gz (10/45): adding to final database dump
+0167.342 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercepostmeta.table.gz (11/45): adding to final database dump
+0167.418 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommerceposts.table.gz (12/45): adding to final database dump
+0167.885 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommerceterm_relationships.table.gz (13/45): adding to final database dump
+0167.981 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommerceterm_taxonomy.table.gz (14/45): adding to final database dump
+0168.013 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercetermmeta.table.gz (15/45): adding to final database dump
+0168.048 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommerceterms.table.gz (16/45): adding to final database dump
+0168.079 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewc_category_lookup.table.gz (17/45): adding to final database dump
+0168.114 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewc_product_meta_lookup.table.gz (18/45): adding to final database dump
+0168.199 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewc_reserved_stock.table.gz (19/45): adding to final database dump
+0168.464 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewc_tax_rate_classes.table.gz (20/45): adding to final database dump
+0168.506 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_order_itemmeta.table.gz (21/45): adding to final database dump
+0168.748 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_payment_tokenmeta.table.gz (22/45): adding to final database dump
+0168.780 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercemailchimp_carts.table.gz (23/45): adding to final database dump
+0168.881 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercemailchimp_jobs.table.gz (24/45): adding to final database dump
+0168.930 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewc_admin_note_actions.table.gz (25/45): adding to final database dump
+0168.981 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewc_admin_notes.table.gz (26/45): adding to final database dump
+0169.080 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewc_customer_lookup.table.gz (27/45): adding to final database dump
+0169.114 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewc_download_log.table.gz (28/45): adding to final database dump
+0169.147 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewc_order_coupon_lookup.table.gz (29/45): adding to final database dump
+0169.181 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewc_order_product_lookup.table.gz (30/45): adding to final database dump
+0169.213 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewc_order_stats.table.gz (31/45): adding to final database dump
+0169.248 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewc_order_tax_lookup.table.gz (32/45): adding to final database dump
+0169.338 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewc_webhooks.table.gz (33/45): adding to final database dump
+0169.656 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_api_keys.table.gz (34/45): adding to final database dump
+0169.706 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_attribute_taxonomies.table.gz (35/45): adding to final database dump
+0169.757 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_downloadable_product_permissions.table.gz (36/45): adding to final database dump
+0169.930 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_log.table.gz (37/45): adding to final database dump
+0170.022 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_order_items.table.gz (38/45): adding to final database dump
+0170.081 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_payment_tokens.table.gz (39/45): adding to final database dump
+0170.116 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_sessions.table.gz (40/45): adding to final database dump
+0170.246 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_shipping_zone_locations.table.gz (41/45): adding to final database dump
+0170.295 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_shipping_zone_methods.table.gz (42/45): adding to final database dump
+0170.329 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_shipping_zones.table.gz (43/45): adding to final database dump
+0170.364 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_tax_rate_locations.table.gz (44/45): adding to final database dump
+0170.446 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db-table-wp_ecommercewoocommerce_tax_rates.table.gz (45/45): adding to final database dump
+0170.509 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db.gz: finished writing out complete database file (936 KB)
+0171.238 (0) Total database tables backed up: 45 (backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db.gz, size: 963545, sha1: 3e8f64697932b33cc367ec7d3b72cebc4fc034f7, sha256: 79a9c2e55fb71944f76c2467217e9dc0e152551a9af277c90dd18abe1dde18ec)
+0171.455 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0171.506 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0171.629 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0171.681 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-others.zip: others: This file has not yet been successfully uploaded: will queue
+0171.712 (0) backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db.gz: db: This file has not yet been successfully uploaded: will queue
+0171.747 (0) Saving backup history. Total backup size: 43.3 MB
+0172.037 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0172.305 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0172.387 (0) No remote despatch: user chose no remote backup service
+0172.426 (0) Recording as successfully uploaded: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-plugins.zip
+0172.489 (0) Recording as successfully uploaded: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-themes.zip
+0172.614 (0) Recording as successfully uploaded: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-uploads.zip
+0172.705 (0) Recording as successfully uploaded: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-others.zip
+0172.855 (0) Recording as successfully uploaded: backup_2020-09-20-1346_Pamilya_Store_b3e7b913a038-db.gz
+0173.563 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0173.606 (0) Number of backup sets in history: 3; groups (db): 1
+0173.638 (0) Examining (for databases) backup set with group_id=0, nonce=b3e7b913a038, datestamp=1600609598 (Sep 20 2020 13:46:38)
+0173.672 (0) This backup set is the backup set just made, so will not be deleted.
+0173.672 (0) Examining (for databases) backup set with group_id=0, nonce=829d018f2a1a, datestamp=1600573569 (Sep 20 2020 03:46:09)
+0173.672 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0173.704 (0) Examining (for databases) backup set with group_id=0, nonce=573efb670e03, datestamp=1600476929 (Sep 19 2020 00:55:29)
+0173.704 (0) 1600476929: db: this set includes a database (backup_2020-09-19-0055_Pamilya_Store_573efb670e03-db.gz); db count is now 2
+0173.704 (0) 1600476929: db: over retain limit (2); will delete this database
+0173.705 (0) Delete file: backup_2020-09-19-0055_Pamilya_Store_573efb670e03-db.gz, service=none
+0173.790 (0) Deleting local copy (backup_2020-09-19-0055_Pamilya_Store_573efb670e03-db.gz)
+0173.856 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0173.888 (0) Number of backup sets in history: 3; groups (files): 1
+0173.922 (0) Examining (for files) backup set with nonce=b3e7b913a038, datestamp=1600609598 (Sep 20 2020 13:46:38)
+0173.922 (0) This backup set is the backup set just made, so will not be deleted.
+0173.954 (0) This backup set is the backup set just made, so will not be deleted.
+0173.954 (0) This backup set is the backup set just made, so will not be deleted.
+0173.954 (0) This backup set is the backup set just made, so will not be deleted.
+0173.954 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0174.030 (0) Examining (for files) backup set with nonce=829d018f2a1a, datestamp=1600573569 (Sep 20 2020 03:46:09)
+0174.030 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0174.030 (0) Examining (for files) backup set with nonce=573efb670e03, datestamp=1600476929 (Sep 19 2020 00:55:29)
+0174.030 (0) plugins: over retain limit (2); will delete this file entity
+0174.030 (0) themes: over retain limit (2); will delete this file entity
+0174.030 (0) uploads: over retain limit (2); will delete this file entity
+0174.030 (0) others: over retain limit (2); will delete this file entity
+0174.031 (0) Delete file: backup_2020-09-19-0055_Pamilya_Store_573efb670e03-plugins.zip, service=none
+0174.063 (0) Deleting local copy (backup_2020-09-19-0055_Pamilya_Store_573efb670e03-plugins.zip)
+0174.289 (0) Delete file: backup_2020-09-19-0055_Pamilya_Store_573efb670e03-themes.zip, service=none
+0174.347 (0) Deleting local copy (backup_2020-09-19-0055_Pamilya_Store_573efb670e03-themes.zip)
+0174.382 (0) Delete file: backup_2020-09-19-0055_Pamilya_Store_573efb670e03-uploads.zip, service=none
+0174.463 (0) Deleting local copy (backup_2020-09-19-0055_Pamilya_Store_573efb670e03-uploads.zip)
+0174.564 (0) Delete file: backup_2020-09-19-0055_Pamilya_Store_573efb670e03-others.zip, service=none
+0174.853 (0) Deleting local copy (backup_2020-09-19-0055_Pamilya_Store_573efb670e03-others.zip)
+0174.930 (0) This backup set is now empty; will remove from history
+0174.963 (0) Deleting log file (log.573efb670e03.txt)
+0175.050 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0175.146 (0) Resume backup (b3e7b913a038, 0): finish run
+0175.455 (0) Decremented the semaphore (fd) by 1
+0175.527 (0) Semaphore (fd) unlocked
+0175.664 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0175.940 (0) No email will/can be sent - the user has not configured an email address.
+0176.254 (0) The backup apparently succeeded and is now complete
